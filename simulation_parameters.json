@@ -1,0 +1,9 @@
+{
+  "xi_star": 0.07223,
+  "phi": 1.6180339887,
+  "samples": 10000,
+  "t_planck": 5.391e-44,
+  "T_xi_scale": "1/xi_star * t_planck",
+  "monte_carlo_trials": 10000,
+  "control_conditions": ["fixed_temp", "isolated_core"]
+}
